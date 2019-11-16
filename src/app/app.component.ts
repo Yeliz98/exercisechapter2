@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   name = 'Angular';
+  title='Stock Market App';
 }
-import { Component } from '@angular/core';
